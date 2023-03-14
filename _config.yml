@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiangping Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Jiangping Huang"
-description              : &description "Research Fellow@NTU"
+description              : &description "Postdoctoral Researcher@NTU"
 url                      : https://h-jp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "h-jp/h-jp.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Singapore"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "cs-huangjp@ntu.edu.sg"
+  googlescholar    : "https://scholar.google.com/citations?user=IulnddEAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huangjiangpyeong"
+  github           : "h-jp"
   google_plus      :
   keybase          :
   instagram        :

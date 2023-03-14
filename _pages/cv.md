@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Jan 2015: Assistant Professor
+* Jan 2018: Assistant Professor
   * Chongqing University of Posts and Telecommunications
   <!-- * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
-* July 2017: Postdoctoral Researcher
+* July 2022: Postdoctoral Researcher
   * Nanyang Technological University
   <!-- * Duties included: Merging pull requests -->
   * Supervisor: Gao Cong
